@@ -106,11 +106,13 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 ![address balance](Images/address balance.png)
 
     * Take a screenshot of the transaction details on Ganache. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
+    
 ![Transaction Details](Images/Transaction Details.png)
 
 5. Return to the original transaction, and click the transaction’s To address.
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
+
 ![Ganache Balance History](Images/Balance History Ganache.png)
 
 ---
